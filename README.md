@@ -38,7 +38,7 @@ Navigate into the project directory
 Install pytest if it is not already installed
 
 Example commands:
-git clone https://github.com/learn-co-curriculum/python-music-library-system-lab
+git clone https://github.com/JTClay1/python-music-library-system-lab
 
 cd python-music-library-system-lab
 sudo apt install python3-pytest
